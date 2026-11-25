@@ -58,3 +58,19 @@ git push origin main
 - Some employment dates and role titles were not exposed in the public profile snapshot, so they are intentionally not invented. Update the experience timeline when a current CV or LinkedIn PDF export is available.
 - Credential status is shown using the available issue/expiry dates and should be rechecked with the issuing bodies.
 - No email address, GitHub profile URL, downloadable CV or unverified project URLs have been fabricated.
+
+
+## Refined professional content
+
+The experience and project sections distinguish:
+- Individual implementation: Jenkins pipeline automation, Prisma Cloud image scanning, Twistcli integration on Windows Azure DevOps agents, and GitLab API governance automation.
+- Team contribution: Centricity AWS Data Warehouse architecture.
+
+Quantified achievements are intentionally not claimed because verified metrics have not been supplied. The portfolio uses qualitative engineering outcomes instead. Exact job titles and employment dates remain pending confirmation from the latest CV/LinkedIn export.
+
+
+## Resume-aligned content update
+
+The experience timeline and certification list have been updated from the resume supplied by Abhinav. The timeline now reflects the dates and client/project descriptions stated in that document (August 2017 onward), including the Arita Solutions engagements for QDB and QNB, the Microsoft AKS Engineer role, and earlier Ford, River Stone, Corinex and AWS projects. The resume does not provide certification issue/expiry dates, so the site does not claim current validity. The resume lists B.Tech at CJITS, JNTU Hyderabad (2012–2016).
+
+Contact details on the site are taken from the supplied resume. Please verify that the phone number and email address are still intended for public display before publishing.
